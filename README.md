@@ -13,6 +13,7 @@ $ source ./devel/setup.bash
 '''
 when running the publisher and subscriber
 '''
+<br>
 #open a terminal and input:<br>
 $ rosrun publisher talker.py
 
