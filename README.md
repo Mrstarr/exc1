@@ -1,10 +1,10 @@
 # exc1
 Exercise 1 for KTH formula, run on ros melodic, ubuntu18.04
 
-$ mkdir -p ~/kthfsdv/src
-$ cd ~/kthfsdv/
+$ mkdir -p ~/kthfsdv/src <br>
+$ cd ~/kthfsdv/ <br>
 #then install the exc1 fold into the src fold
-$ catkin build
+$ catkin build <br>
 
 #remember to add source in the terminal of fold kthfsdv by
 <br>
