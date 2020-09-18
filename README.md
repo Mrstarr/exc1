@@ -13,11 +13,11 @@ $ source ./devel/setup.bash
 '''
 when running the publisher and subscriber
 '''
-#open a terminal and input:
+#open a terminal and input:<br>
 $ rosrun publisher talker.py
 
-#the open another terminal and input:
+#the open another terminal and input:<br>
 $ rosrun receiver listener.py
 
-#to check results
+#to check results<br>
 $ rostopic echo result
